@@ -2,10 +2,9 @@
 Tarea 1 - Sistema de Gestion Hospitalaria
 
 1. Compilacion y ejecucion
+Ingresar al link de replit enviado (en caso de no tener cuenta, crear una)
 
-El programa usa los TDA List y Extra ubicados en la carpeta tdas/.
-
-Para compilar, ejecutar el siguiente comando en la terminal:
+Para compilar, ejecutar el siguiente comando en la terminal (SHELL):
 gcc tarea1.c tdas/extra.c tdas/heap.c tdas/list.c tdas/map.c -I tdas -o tarea1
 
 Para ejecutar el programa ya compilado:
